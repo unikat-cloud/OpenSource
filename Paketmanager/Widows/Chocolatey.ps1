@@ -14,5 +14,5 @@ Set-ExecutionPolicy Bypass -Scope Process -Force;
 # (New-Object System.Net.WebClient): Erstellt ein neues WebClient-Objekt, um Dateien herunterzuladen.
 # .DownloadString('https://community.chocolatey.org/install.ps1'):
 #   Lädt den Inhalt des Installationsskripts von der Chocolatey-Website herunter.
-#   Das Skript wird dann von "iex" ausgeführt.
+#   Das Skript wird von "iex" ausgeführt.
 iex ((New-Object System.Net.WebClient).DownloadString('https://community.chocolatey.org/install.ps1'))
