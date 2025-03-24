@@ -33,15 +33,6 @@ Brave ist ein kostenloser und Open-Source-Webbrowser, der sich auf Datenschutz u
 * **Kryptowährungs-Enthusiasten:** Brave bietet ein integriertes Belohnungssystem und eine Kryptowährungs-Wallet.
 * **Allgemeine Nutzung:** Brave ist ein schneller und sicherer Browser, der für alle Nutzer geeignet ist.
 
-## Installation
-
-Die Installation von Brave ist einfach und unkompliziert. Hier sind die grundlegenden Schritte:
-
-1.  **Brave-Website besuchen:** Gehen Sie zur offiziellen Brave-Website (brave.com).
-2.  **Download-Button klicken:** Klicken Sie auf den Download-Button für Ihr Betriebssystem.
-3.  **Installationsdatei ausführen:** Führen Sie die heruntergeladene Installationsdatei aus und folgen Sie den Anweisungen.
-4.  **Brave starten:** Nach der Installation können Sie Brave starten und mit dem Surfen beginnen.
-
 ## Zusätzliche Informationen
 
 * Brave ist kostenlos und Open Source.
