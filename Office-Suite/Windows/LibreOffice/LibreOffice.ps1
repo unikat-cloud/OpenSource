@@ -13,8 +13,3 @@
 # Write-Host "LibreOffice wurde mit Winget installiert."
 # Write-Host "Winget Installation abgeschlossen!"
 # ------------------------------------------------------------------------
-
-# --- Anmerkungen ---
-# Bitte entfernen Sie die Auskommentierung (#) vor der gewünschten Installationsmethode.
-# Führen Sie dieses Skript als Administrator aus.
-# -------------------
