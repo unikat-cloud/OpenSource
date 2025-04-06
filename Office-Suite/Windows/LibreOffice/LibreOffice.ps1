@@ -1,15 +1,7 @@
 # Installationsskript für LibreOffice
 
-# --- Chocolatey Installation (Auskommentierung entfernen, um zu verwenden) ---
-# Write-Host "LibreOffice wird mit Chocolatey installiert..."
-# choco install libreoffice-fresh -y
-# Write-Host "LibreOffice wurde mit Chocolatey installiert."
-# Write-Host "Chocolatey Installation abgeschlossen!"
-# ------------------------------------------------------------------------
+ Write-Host "LibreOffice wird mit Winget installiert..."
+ winget install LibreOffice -e --source winget --accept-package-agreements --accept-source-agreements
+ Write-Host "LibreOffice wurde mit Winget installiert."
+ Write-Host "Winget Installation abgeschlossen!"
 
-# --- Winget Installation (Auskommentierung entfernen, um zu verwenden) ---
-# Write-Host "LibreOffice wird mit Winget installiert..."
-# winget install LibreOffice -e --source winget --accept-package-agreements --accept-source-agreements
-# Write-Host "LibreOffice wurde mit Winget installiert."
-# Write-Host "Winget Installation abgeschlossen!"
-# ------------------------------------------------------------------------
