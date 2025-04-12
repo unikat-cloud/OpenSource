@@ -4,8 +4,6 @@
 
 **Was ist Blender?**
 
-Ähnlich wie Kdenlive im Bereich der Videobearbeitung, setzt auch Blender auf folgende Grundprinzipien:
-
 * **Datenschutzorientiertes Arbeiten:** Blender respektiert Ihre Privatsphäre. Da es sich um Open-Source-Software handelt, ist der Quellcode transparent und nachvollziehbar. Es werden keine unnötigen Daten gesammelt oder weitergegeben. Ihre kreativen Projekte bleiben Ihre eigenen.
 * **Leistung und Effizienz:** Blender ist darauf ausgelegt, auch mit umfangreichen Projekten flüssig zu arbeiten. Es nutzt moderne Technologien, um eine schnelle und stabile Bearbeitung zu ermöglichen.
 * **Kostenlos und Open Source:** Blender ist für jeden frei verfügbar und kann ohne Lizenzgebühren genutzt werden. Die Open-Source-Natur ermöglicht eine aktive Community, die zur Weiterentwicklung beiträgt und bei Fragen unterstützt.
