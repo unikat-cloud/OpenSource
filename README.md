@@ -50,7 +50,7 @@ Die Sammlung ist wie folgt organisiert:
 
 1.  Navigiere zur gewünschten Kategorie und App.
 2.  Lies die `README.md` im App-Ordner, um zu verstehen, was die Skripte tun.
-3.  Wähle das passende Skript für dein Betriebssystem (`.sh` für Linux, `.ps1` für Windows).
+3.  Wähle das passende Skript für dein Betriebssystem (`.bash` für Linux, `.ps1` für Windows).
 4.  Führe das Skript gemäß den Anweisungen in der jeweiligen App-README aus (oftmals sind Administrator- oder Root-Rechte erforderlich).
 
 ## Beitrag
