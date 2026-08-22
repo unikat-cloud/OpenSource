@@ -38,3 +38,8 @@
 * Balena Etcher ist **kostenlos und Open Source**.
 * Balena Etcher bietet eine **Vielzahl von Funktionen**, die den Datenschutz und die Sicherheit der Nutzer respektieren.
 * Die **offizielle Webseite von Balena Etcher ist balena.io/etcher**. Dort finden Sie weitere Informationen, Downloads und Dokumentationen.
+
+## Open-Source-Lizenz
+
+* **Lizenz:** Apache License 2.0
+* **Status:** Open Source (quelloffen, frei nutzbar und verteilbar)
