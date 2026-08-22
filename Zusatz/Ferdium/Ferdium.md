@@ -37,3 +37,9 @@
 * Ferdium ist **kostenlos und Open Source**.
 * Ferdium bietet eine **Vielzahl von Funktionen**, die den Datenschutz und die Sicherheit der Nutzer respektieren.
 * Die **offizielle Webseite von Ferdium ist ferdium.org**. Dort finden Sie weitere Informationen, Downloads, Dokumentationen und die aktive Community.
+
+## Open-Source-Lizenz
+
+* **Lizenz:** Apache License 2.0
+* **Status:** Open Source (quelloffen)
+* **Wichtiger Hinweis:** Die App ist quelloffen (Apache 2.0). Optional kann ein Ferdium-/Franz-Account bzw. -Server genutzt werden, der proprietär ist; ein Self-Hosting ist möglich.
