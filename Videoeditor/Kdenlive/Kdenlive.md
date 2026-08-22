@@ -41,3 +41,8 @@
 * Kdenlive ist **kostenlos und Open Source**.
 * Kdenlive bietet eine **Vielzahl von Funktionen**, die den Datenschutz und die Sicherheit der Nutzer respektieren.
 * Die **offizielle Webseite von Kdenlive ist kdenlive.org**. Dort finden Sie weitere Informationen, Downloads, Dokumentationen und die aktive Community.
+
+## Open-Source-Lizenz
+
+* **Lizenz:** GNU GPL v2 (oder neuer)
+* **Status:** Open Source (quelloffen, frei nutzbar und verteilbar)
