@@ -39,3 +39,8 @@
 * Audacity ist kostenlos und Open Source.
 * Audacity bietet eine Vielzahl von Funktionen, die den Datenschutz und die Sicherheit der Nutzer verbessern.
 * Die offizielle Webseite von Audacity ist [audacityteam.org](https://audacityteam.org). Dort befinden sich weiterführende Informationen und Dokumentationen.
+
+## Open-Source-Lizenz
+
+* **Lizenz:** GNU GPL v3
+* **Status:** Open Source (quelloffen, frei nutzbar und verteilbar)
