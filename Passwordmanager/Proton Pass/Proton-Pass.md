@@ -30,7 +30,7 @@
 
 * **Passwortverwaltung für Privatanwender:** Schützen Sie Ihre persönlichen Konten und Daten.
 * **Passwortverwaltung für Unternehmen:** Sichern Sie die Konten und Daten Ihres Unternehmens.
-* **Sichere Speicherung sensibler Informationen:** Bewahren Sie wichtige Informationen wie Kreditkartendaten und Adressen sicher auf.
+* **Sichere Speicherung sensibler Informationen:** Bewahren Sie wichtige Unterlagen wie Kreditkartendaten und Adressen sicher auf.
 * **Schutz vor Identitätsdiebstahl:** Verhindern Sie unbefugten Zugriff auf Ihre Konten.
 * **Vereinfachung des Online-Lebens:** Verwalten Sie Ihre Passwörter effizient und sicher.
 
@@ -39,3 +39,9 @@
 * Proton Pass ist **sicher und benutzerfreundlich**.
 * Proton Pass bietet eine **Vielzahl von Funktionen**, die den Datenschutz und die Sicherheit der Nutzer respektieren.
 * Die **offizielle Webseite von Proton Pass ist protonpass.com**. Dort finden Sie weitere Informationen, Downloads, Dokumentationen und die aktive Community.
+
+## Open-Source-Lizenz
+
+* **Lizenz:** GNU GPL v3
+* **Status:** Open Source (quelloffen)
+* **Wichtiger Hinweis:** Die Clients sind quelloffen (GPLv3). Der zugehörige Backend-Dienst (Proton-Server) ist proprietär und nicht selbst-hostbar.
