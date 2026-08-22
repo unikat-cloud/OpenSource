@@ -37,3 +37,8 @@ Firefox ist ein kostenloser und Open-Source-Webbrowser, der sich durch seine Anp
 * Firefox ist kostenlos und Open Source.
 * Firefox wird von der Mozilla Foundation entwickelt, einer gemeinnützigen Organisation.
 * Die Offizielle Webseite von Firefox ist mozilla.org/firefox. Dort befinden sich weiterführende Informationen, und Dokumentationen.
+
+## Open-Source-Lizenz
+
+* **Lizenz:** Mozilla Public License (MPL) 2.0
+* **Status:** Open Source (quelloffen, frei nutzbar und verteilbar)
