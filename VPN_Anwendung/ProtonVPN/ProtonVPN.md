@@ -4,7 +4,7 @@
 
 **Was ist ProtonVPN?**
 
-* **Datenschutzorientiertes Arbeiten:** ProtonVPN respektiert Ihre Privatsphäre. Der Quellcode ist zwar nicht Open Source, aber das Unternehmen hat eine strenge No-Logs-Richtlinie. Es werden keine unnötigen Daten gesammelt oder weitergegeben. Ihre Online-Aktivitäten bleiben Ihre eigenen.
+* **Datenschutzorientiertes Arbeiten:** ProtonVPN respektiert Ihre Privatsphäre. Der Quellcode der Clients ist Open Source (GPLv3, seit 2020 veröffentlicht), was Transparenz und Überprüfbarkeit gewährleistet. Es werden keine unnötigen Daten gesammelt oder weitergegeben. Ihre Online-Aktivitäten bleiben Ihre eigenen.
 * **Leistung und Effizienz:** ProtonVPN ist darauf ausgelegt, schnelle und stabile Verbindungen zu bieten, auch bei der Verbindung zu Servern in großer Entfernung. Es nutzt moderne Technologien, um eine hohe Geschwindigkeit und Zuverlässigkeit zu gewährleisten.
 * **Sicherheit und Vertrauenswürdigkeit:** ProtonVPN wird von demselben Team betrieben, das auch ProtonMail entwickelt hat, einen der weltweit größten Anbieter für verschlüsselte E-Mails. ProtonVPN hat sich einen Ruf für seine starke Verschlüsselung und seinen Fokus auf Sicherheit aufgebaut.
 * **Multi-Plattform:** ProtonVPN ist für verschiedene Betriebssysteme und Geräte verfügbar, darunter Windows, macOS, Linux, iOS und Android. So können Sie Ihre Geräte schützen, egal welches Betriebssystem Sie bevorzugen.
@@ -42,3 +42,9 @@
 * ProtonVPN bietet sowohl **kostenlose als auch kostenpflichtige Pläne** an. Die kostenpflichtigen Pläne bieten zusätzliche Funktionen und eine größere Auswahl an Servern.
 * ProtonVPN hat sich dem **Datenschutz und der Sicherheit** seiner Nutzer verschrieben.
 * Die **offizielle Webseite von ProtonVPN ist protonvpn.com**. Dort finden Sie weitere Informationen, Downloads, Dokumentationen und Support.
+
+## Open-Source-Lizenz
+
+* **Lizenz:** GNU GPL v3 (Clients, seit 2020 veröffentlicht)
+* **Status:** Open Source (quelloffen)
+* **Wichtiger Hinweis:** Die Clients sind quelloffen (GPLv3). Der VPN-Backend-Dienst (Proton-Server/Infrastruktur) ist proprietär und nicht selbst-hostbar.
