@@ -32,7 +32,7 @@
 * **Passwortverwaltung für Privatanwender:** Schützen Sie Ihre persönlichen Konten und Daten.
 * **Passwortverwaltung für Familien:** Teilen Sie Passwörter sicher mit Familienmitgliedern.
 * **Passwortverwaltung für Unternehmen:** Sichern Sie die Konten und Daten Ihres Unternehmens und ermöglichen Sie eine sichere Zusammenarbeit.
-* **Sichere Speicherung sensibler Informationen:** Bewahren Sie wichtige Informationen wie Kreditkartendaten, Adressen und Lizenzschlüssel sicher auf.
+* **Sichere Speicherung sensibler Informationen:** Bewahren Sie wichtige Unterlagen wie Kreditkartendaten, Adressen und Lizenzschlüssel sicher auf.
 * **Schutz vor Cyberbedrohungen:** Verhindern Sie unbefugten Zugriff auf Konten und Daten durch Phishing, Hacking und andere Angriffe.
 
 **Zusätzliche Informationen zu Bitwarden:**
@@ -40,3 +40,8 @@
 * Bitwarden ist **sicher und flexibel**.
 * Bitwarden bietet eine **Vielzahl von Funktionen**, die den Datenschutz und die Sicherheit der Nutzer respektieren.
 * Die **offizielle Webseite von Bitwarden ist bitwarden.com**. Dort finden Sie weitere Informationen, Downloads, Dokumentationen und die aktive Community.
+
+## Open-Source-Lizenz
+
+* **Lizenz:** GNU GPL v3 (Clients und Server)
+* **Status:** Open Source (quelloffen, frei nutzbar und verteilbar; auch der Server ist als AGPL veröffentlicht und selbst-hostbar)
