@@ -38,3 +38,9 @@ Brave ist ein kostenloser und Open-Source-Webbrowser, der sich auf Datenschutz u
 * Brave ist kostenlos und Open Source.
 * Brave bietet eine Vielzahl von Funktionen, die den Datenschutz und die Sicherheit der Nutzer verbessern.
 * Die Offizielle Webseite von Brave ist brave.com. Dort befinden sich weiterführende Informationen, und Dokumentationen.
+
+## Open-Source-Lizenz
+
+* **Lizenz:** Mozilla Public License (MPL) 2.0
+* **Status:** Open Source (quelloffen, frei nutzbar und verteilbar)
+* **Wichtiger Hinweis:** Die Browser-Software ist quelloffen (MPL 2.0). Brave bindet jedoch standardmäßig proprietäre, kommerzielle Dienste ein (z. B. Brave Rewards/Werbung, Brave Firewall+VPN-Upsell). Die Software selbst ist frei; der kommerzielle Dienst ist optional.
