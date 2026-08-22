@@ -45,3 +45,8 @@ Betterbird ist ein sogenannter "Soft Fork" von Mozilla Thunderbird, was bedeutet
 * Betterbird ist **kostenlos und Open Source**.
 * Betterbird strebt danach, eine **datenschutzfreundlichere Alternative** zu sein, indem es weniger Telemetriedaten als Thunderbird sammelt.
 * Die **offizielle Webseite von Betterbird ist www.betterbird.eu**. Dort finden Sie weitere Informationen, Downloads, FAQs und Support-Möglichkeiten.
+
+## Open-Source-Lizenz
+
+* **Lizenz:** Mozilla Public License (MPL) 2.0
+* **Status:** Open Source (quelloffen, frei nutzbar und verteilbar)
