@@ -36,3 +36,8 @@ Thunderbird ist ein leistungsstarker und kostenloser E-Mail-Client, der eine bre
 * Thunderbird wird von der Mozilla Foundation entwickelt, einer gemeinnützigen Organisation.
 * Die offizielle Webseite von Thunderbird ist thunderbird.net. Dort befinden sich weiterführende Informationen und Dokumentationen.
 * Thunderbird unterstützt eine vielzahl von Protokollen, darunter POP3, IMAP und SMTP.
+
+## Open-Source-Lizenz
+
+* **Lizenz:** Mozilla Public License (MPL) 2.0
+* **Status:** Open Source (quelloffen, frei nutzbar und verteilbar)
