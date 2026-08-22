@@ -31,3 +31,8 @@
 * qBittorrent ist **kostenlos und Open Source**.
 * qBittorrent legt großen Wert auf eine **saubere, werbe- und malwarefreie Nutzererfahrung**.
 * Die **offizielle Webseite von qBittorrent ist qbittorrent.org**. Dort finden Sie Downloads für alle unterstützten Plattformen, Dokumentation, das Forum und den Quellcode.
+
+## Open-Source-Lizenz
+
+* **Lizenz:** GNU GPL v2 (oder neuer)
+* **Status:** Open Source (quelloffen, frei nutzbar und verteilbar)
