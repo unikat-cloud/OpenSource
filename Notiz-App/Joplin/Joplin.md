@@ -41,3 +41,8 @@
 * Joplin ist **kostenlos und Open Source**.
 * Joplin bietet eine **Vielzahl von Funktionen**, die den Datenschutz und die Sicherheit der Nutzer respektieren.
 * Die **offizielle Webseite von Joplin ist joplinapp.org**. Dort finden Sie weitere Informationen, Downloads, Dokumentationen und die aktive Community.
+
+## Open-Source-Lizenz
+
+* **Lizenz:** GNU AGPL v3
+* **Status:** Open Source (quelloffen, frei nutzbar und verteilbar)
