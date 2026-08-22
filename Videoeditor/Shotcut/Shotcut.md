@@ -39,3 +39,8 @@
 * Shotcut ist **kostenlos und Open Source** – ohne Werbung, Tracking oder versteckte Kosten.
 * Shotcut kann **offline genutzt werden** und schützt damit Ihre Daten effektiv.
 * Die **offizielle Webseite von Shotcut ist shotcut.org** – dort finden Sie Downloads, Hilfen, Tutorials und die engagierte Community.
+
+## Open-Source-Lizenz
+
+* **Lizenz:** GNU GPL v3
+* **Status:** Open Source (quelloffen, frei nutzbar und verteilbar)
