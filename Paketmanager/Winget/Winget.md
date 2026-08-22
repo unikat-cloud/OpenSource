@@ -36,3 +36,8 @@ Winget wird kontinuierlich weiterentwickelt, und Microsoft plant, in Zukunft wei
 ## Fazit
 
 Winget ist ein leistungsstarkes und praktisches Tool, das die Softwareverwaltung unter Windows erheblich vereinfacht. Für Benutzer, die häufig Software installieren und aktualisieren, ist Winget eine wertvolle Ergänzung.
+
+## Open-Source-Lizenz
+
+* **Lizenz:** MIT License
+* **Status:** Open Source (quelloffen, frei nutzbar und verteilbar)
