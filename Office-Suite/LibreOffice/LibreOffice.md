@@ -38,3 +38,8 @@ LibreOffice ist eine leistungsstarke und kostenlose Office-Suite, die eine breit
 * LibreOffice wird von der The Document Foundation entwickelt, einer gemeinnützigen Organisation.
 * Die Offizielle Webseite von LibreOffice ist libreoffice.org. Dort befinden sich weiterführende Informationen, und Dokumentationen.
 * Libre Office unterstützt eine vielzahl von Dateiformaten, darunter auch die von Microsoft Office.
+
+## Open-Source-Lizenz
+
+* **Lizenz:** MPL v2.0 / LGPL v3 / GPL v3 (Tri-Lizenz)
+* **Status:** Open Source (quelloffen, frei nutzbar und verteilbar)
