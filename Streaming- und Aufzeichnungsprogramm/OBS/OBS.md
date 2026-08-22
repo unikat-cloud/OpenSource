@@ -40,3 +40,8 @@
 * OBS ist **kostenlos und Open Source**.
 * OBS bietet eine **Vielzahl von Funktionen**, die es zu einer vielseitigen Lösung für Streaming und Aufnahme machen.
 * Die **offizielle Webseite von OBS ist obsproject.com**. Dort finden Sie weitere Informationen, Downloads, Dokumentationen und die aktive Community.
+
+## Open-Source-Lizenz
+
+* **Lizenz:** GNU GPL v2
+* **Status:** Open Source (quelloffen, frei nutzbar und verteilbar)
