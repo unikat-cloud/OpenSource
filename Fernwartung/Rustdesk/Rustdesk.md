@@ -40,3 +40,9 @@
 * RustDesk ist **kostenlos und Open Source**.
 * RustDesk bietet eine **Vielzahl von Funktionen**, die den Datenschutz und die Sicherheit der Nutzer respektieren, insbesondere durch die Self-Hosting-Option.
 * Die **offizielle Webseite von RustDesk ist rustdesk.com**. Dort finden Sie weitere Informationen, Downloads, Dokumentationen und die Community.
+
+## Open-Source-Lizenz
+
+* **Lizenz:** GNU GPL v3 (Server: GNU AGPL v3)
+* **Status:** Open Source (quelloffen, frei nutzbar und verteilbar)
+* **Wichtiger Hinweis:** Client und Server sind quelloffen (GPLv3 / AGPLv3). Die standardmäßig genutzten öffentlichen Relay-Server werden jedoch von RustDesk betrieben (proprietärer Dienst). Ein Self-Hosting des Servers ist jederzeit möglich.
