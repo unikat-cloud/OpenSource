@@ -37,3 +37,9 @@ ONLYOFFICE ist eine umfassende und benutzerfreundliche Office-Suite, die eine br
 * ONLYOFFICE wird von Ascensio System SIA entwickelt.
 * Die offizielle Webseite von ONLYOFFICE ist onlyoffice.com. Dort finden Sie weitere Informationen und Dokumentationen.
 * ONLYOFFICE bietet auch eine kostenlose Community-Version an.
+
+## Open-Source-Lizenz
+
+* **Lizenz:** GNU AGPL v3
+* **Status:** Open Source (quelloffen)
+* **Wichtiger Hinweis:** Der Kern (Desktop Editors & Document Server) ist quelloffen (AGPLv3). Daneben bietet der Hersteller eine separat lizenzierte, kostenpflichtige Enterprise-Edition an (Dual-Lizenz).
