@@ -43,3 +43,9 @@
 * Standard Notes wurde von Proton (bekannt für ProtonMail und ProtonVPN) übernommen, bleibt aber Open Source und konzentriert sich weiterhin auf Datenschutz.
 * Die **offizielle Webseite von Standard Notes ist standardnotes.com**. Dort finden Sie weitere Informationen, Downloads, Details zu den Plänen und Support.
 * Der Quellcode ist auf **GitHub** verfügbar.
+
+## Open-Source-Lizenz
+
+* **Lizenz:** GNU GPL v3
+* **Status:** Open Source (quelloffen)
+* **Wichtiger Hinweis:** Die Clients sind quelloffen (GPLv3). Der gehostete Synchronisationsdienst von Proton ist proprietär/geschlossen, es existiert jedoch ein Open-Source-Sync-Server zur Selbsthostung.
