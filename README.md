@@ -16,6 +16,37 @@ Open Source (offener Quellcode) bezieht sich auf Software, deren Quellcode öffe
 
 Diese Sammlung enthält Installations- und Konfigurationsskripte für verschiedene beliebte Open-Source-Anwendungen. Sie soll dabei helfen, diese Anwendungen schnell und einfach auf verschiedenen Betriebssystemen einzurichten.
 
+## Lizenzübersicht aller enthaltenen Apps
+
+| Kategorie | App | Lizenz |
+|-----------|-----|--------|
+| 3D-Erstellungsplattform | Blender | GNU GPL v2+ |
+| Audioeditor | Audacity | GNU GPL v3 |
+| Browser | Brave | MPL 2.0 * |
+| Browser | Firefox | MPL 2.0 |
+| Fernwartung | RustDesk | GNU GPL v3 * |
+| Mailclient | Betterbird | MPL 2.0 |
+| Mailclient | Thunderbird | MPL 2.0 |
+| Notiz-App | Joplin | GNU AGPL v3 |
+| Notiz-App | Standard Notes | GNU GPL v3 * |
+| OS-Flasher | Balena Etcher | Apache 2.0 |
+| Office-Suite | LibreOffice | MPL v2 / LGPL v3 / GPL v3 |
+| Office-Suite | OnlyOffice | GNU AGPL v3 * |
+| Paketmanager | Flatpak | GNU LGPL v2.1 |
+| Paketmanager | Winget | MIT |
+| Passwordmanager | Bitwarden | GNU GPL v3 |
+| Passwordmanager | KeePassXC | GNU GPL v2+ |
+| Passwordmanager | Proton Pass | GNU GPL v3 * |
+| Streaming/Aufzeichnung | OBS Studio | GNU GPL v2 |
+| Torrent | qBittorrent | GNU GPL v2+ |
+| VPN | ProtonVPN | GNU GPL v3 * |
+| Vektorgafikeditor | Inkscape | GNU GPL v2+ |
+| Videoeditor | Kdenlive | GNU GPL v2+ |
+| Videoeditor | Shotcut | GNU GPL v3 |
+| Zusatz | Ferdium | Apache 2.0 * |
+
+**\* = Open-Source-Software, aber der Backend-Dienst / Synchronisationsdienst ist proprietär.** Die jeweilige App-Datei enthält dazu einen detaillierten Hinweis.
+
 ## Struktur
 
 Die Sammlung ist wie folgt organisiert:
@@ -38,7 +69,7 @@ Die Sammlung ist wie folgt organisiert:
 │   └── ...
 ├── ...
 └── README.md                 # Diese Datei
-``` 
+```
 -   **Kategorien:** Die Skripte sind thematisch in Ordnern gruppiert (z. B. Datenbanken, Webserver, Entwicklungstools).
 -   **Apps:** Innerhalb jeder Kategorie gibt es Unterordner für spezifische Anwendungen (z. B. PostgreSQL, Nginx, Git).
 -   **Skripte:** In jedem App-Ordner findest du:
