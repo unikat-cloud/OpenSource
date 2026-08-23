@@ -25,6 +25,8 @@ Diese Sammlung enthält Installations- und Konfigurationsskripte für verschiede
 | Browser | Brave | MPL 2.0 * |
 | Browser | Firefox | MPL 2.0 |
 | Fernwartung | RustDesk | GNU GPL v3 * |
+| KI-Tools | OpenCode Desktop | MIT |
+| KI-Tools | Hermes Desktop | MIT |
 | Mailclient | Betterbird | MPL 2.0 |
 | Mailclient | Thunderbird | MPL 2.0 |
 | Notiz-App | Joplin | GNU AGPL v3 |
