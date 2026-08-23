@@ -1,44 +1,26 @@
-# Firefox: Der anpassbare Browser für das offene Web
+# Firefox
 
-Firefox ist ein kostenloser und Open-Source-Webbrowser, der sich durch seine Anpassbarkeit und seinen Fokus auf Datenschutz auszeichnet. Er bietet eine vielseitige Plattform für das Surfen im Internet und ist bekannt für seine umfangreiche Sammlung von Add-ons. Damit ist er vergleichbar mit anderen flexiblen Browsern und bringt eine offene Alternative in die Welt des Webbrowsings.
+Freier Open-Source-Webbrowser der Mozilla Foundation mit Schwerpunkt Datenschutz und Anpassbarkeit. Firefox ist einer der wenigen Browser, der nicht auf Chromium basiert und bietet eine unabhängige Alternative im Browser-Markt. Der Quellcode ist vollständig einsehbar und wird von einer aktiven Community weltweit weiterentwickelt.
 
-## Was ist Firefox?
+## Funktionen
 
-* **Anpassbarkeit:** Firefox ermöglicht es Benutzern, ihren Browser mit einer Vielzahl von Add-ons und Themes anzupassen.
-* **Datenschutzorientiert:** Firefox legt großen Wert auf den Schutz der Privatsphäre der Nutzer und bietet integrierte Datenschutzfunktionen.
-* **Open Source:** Firefox ist ein Open-Source-Projekt, was bedeutet, dass der Quellcode öffentlich zugänglich ist und von einer aktiven Community weiterentwickelt wird.
-* **Cross-Plattform:** Verfügbar für Windows, macOS, Linux, Android und iOS.
+- Tracking-Schutz und Fingerprinting-Schutz
+- Riesige Add-on-Bibliothek für individuelle Anpassung
+- Integrierter Passwort-Manager und Synchronisierung über Geräte
+- Entwicklerwerkzeuge (DevTools)
+- Plattformübergreifend: Windows, macOS, Linux, Android, iOS
 
-## Vorteile von Firefox
+## Installation
 
-* **Umfangreiche Add-on-Bibliothek:** Firefox bietet eine große Auswahl an Add-ons, mit denen Benutzer die Funktionalität ihres Browsers erweitern können.
-* **Starker Datenschutz:** Firefox bietet integrierte Funktionen zum Schutz der Privatsphäre, wie z.B. Tracking-Schutz und Schutz vor Fingerprinting.
-* **Anpassbare Benutzeroberfläche:** Benutzer können das Erscheinungsbild und die Funktionalität von Firefox an ihre Bedürfnisse anpassen.
-* **Open-Source-Entwicklung:** Die offene Entwicklung von Firefox ermöglicht es der Community, den Browser kontinuierlich zu verbessern.
-* **Hohe Sicherheitsstandards:** Firefox wird regelmäßig auf Sicherheitslücken überprüft und bietet Schutz vor schädlichen Websites.
+Die mitgelieferten Skripte installieren Firefox:
+- **Linux:** `Firefox.bash`
+- **Windows:** `Firefox.ps1`
 
-## Grundlegende Funktionen
+## Weitere Infos
 
-* **Tab-Management:** Firefox bietet fortschrittliche Funktionen zum Verwalten von Tabs.
-* **Lesezeichen und Chronik:** Einfache Verwaltung von Lesezeichen und der Browserchronik.
-* **Passwort-Manager:** Integrierter Passwort-Manager zum sicheren Speichern von Passwörtern.
-* **Synchronisierung:** Synchronisierung von Lesezeichen, Chronik und Passwörtern zwischen verschiedenen Geräten.
-* **Entwicklerwerkzeuge:** Umfassende Werkzeuge für Webentwickler.
+[mozilla.org/firefox](https://mozilla.org/firefox)
 
-## Anwendungsbereiche
-
-* **Datenschutzbewusste Nutzer:** Firefox ist ideal für Nutzer, die ihre Privatsphäre im Internet schützen möchten.
-* **Nutzer, die ihren Browser anpassen möchten:** Die umfangreiche Add-on-Bibliothek ermöglicht eine individuelle Anpassung.
-* **Webentwickler:** Firefox bietet leistungsstarke Entwicklerwerkzeuge.
-* **Allgemeine Nutzung:** Firefox ist ein vielseitiger Browser für alle Nutzer.
-
-## Zusätzliche Informationen
-
-* Firefox ist kostenlos und Open Source.
-* Firefox wird von der Mozilla Foundation entwickelt, einer gemeinnützigen Organisation.
-* Die Offizielle Webseite von Firefox ist mozilla.org/firefox. Dort befinden sich weiterführende Informationen, und Dokumentationen.
-
-## Open-Source-Lizenz
+## Lizenz
 
 * **Lizenz:** Mozilla Public License (MPL) 2.0
 * **Status:** Open Source (quelloffen, frei nutzbar und verteilbar)
