@@ -1,6 +1,6 @@
 # Open-Source-Skriptsammlung
 
-> **Hinweis:** Diese Sammlung stellt keine Werbung, Empfehlung oder Birthday für die genannten Apps dar. Alle aufgeführten Anwendungen sind Open-Source-Software und werden hier ausschließlich zu Informationszwecken aufgelistet. Die Skripte werden ohne Gewähr zur Verfügung gestellt – die Nutzung erfolgt auf eigene Verantwortung. Bitte informiere dich vor der Installation über die jeweilige App und deren Lizenzbedingungen.
+> **Hinweis:** Diese Sammlung stellt keine Werbung, Empfehlung oder Bewerbung für die genannten Apps dar. Alle aufgeführten Anwendungen sind Open-Source-Software und werden hier ausschließlich zu Informationszwecken aufgelistet. Die Skripte werden ohne Gewähr zur Verfügung gestellt – die Nutzung erfolgt auf eigene Verantwortung. Bitte informiere dich vor der Installation über die jeweilige App und deren Lizenzbedingungen.
 
 > **Aktualität:** Die Installationsanweisungen und Lizenzangaben wurden zuletzt im **August 2026** geprüft. Da sich Paketquellen, Versionsnummern und Lizenzbedingungen ändern können, empfehlen wir, vor der Nutzung die offiziellen Seiten der jeweiligen Apps zu konsultieren und die Skripte ggf. anzupassen.
 
