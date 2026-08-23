@@ -24,13 +24,16 @@ Diese Sammlung enthält Installations- und Konfigurationsskripte für verschiede
 |-----------|-----|--------|
 | 3D-Erstellungsplattform | Blender | GNU GPL v2+ |
 | Audioeditor | Audacity | GNU GPL v3 |
+| Bildbearbeitung | GIMP | GNU GPL v3+ |
 | Browser | Brave | MPL 2.0 * |
 | Browser | Firefox | MPL 2.0 |
 | Code-Editor | VSCodium | MIT |
+| Dateisync | Syncthing | MPL 2.0 |
 | Dokumente | Stirling PDF | GNU AGPL v3 |
 | Fernwartung | RustDesk | GNU GPL v3 * |
 | KI-Tools | OpenCode Desktop | MIT |
 | KI-Tools | Hermes Desktop | MIT |
+| Kommunikation | Signal | GNU AGPL v3 * |
 | Mailclient | Betterbird | MPL 2.0 |
 | Mailclient | Thunderbird | MPL 2.0 |
 | Notiz-App | Joplin | GNU AGPL v3 |
@@ -46,6 +49,7 @@ Diese Sammlung enthält Installations- und Konfigurationsskripte für verschiede
 | Passwordmanager | Proton Pass | GNU GPL v3 * |
 | Streaming/Aufzeichnung | OBS Studio | GNU GPL v2 |
 | Torrent | qBittorrent | GNU GPL v2+ |
+| Virtualisierung | VirtualBox | GNU GPL v2 * |
 | VPN | ProtonVPN | GNU GPL v3 * |
 | Vektorgafikeditor | Inkscape | GNU GPL v2+ |
 | Videoeditor | Kdenlive | GNU GPL v2+ |
