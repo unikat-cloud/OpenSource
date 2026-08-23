@@ -1,7 +1,7 @@
 #!/bin/bash
 
-# KeepassXC installieren
-echo 'KeepassXC wird installiert...'
-flatpak install org.keepassxc.KeePassXC -y
-echo 'KeepassXC wurde installiert.'
+# KeePassXC installieren
+echo 'KeePassXC wird installiert...'
+flatpak install flathub org.keepassxc.KeePassXC -y
+echo 'KeePassXC wurde installiert.'
 echo 'Installation abgeschlossen!'
