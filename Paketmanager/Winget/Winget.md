@@ -12,8 +12,15 @@ Microsoft-eigener Paketmanager für Windows über die Befehlszeile. Winget ermö
 
 ## Installation
 
-Die mitgelieferten Skripte richten Winget ein:
-- **Windows:** `Winget.md` (Dokumentation, keine Skripte vorhanden)
+Winget ist auf Windows 10 (1809+) und Windows 11 bereits vorinstalliert. Falls nicht vorhanden:
+
+```powershell
+# Über Microsoft Store installieren
+start ms-windows-store://pdp/?productid=9NBLGGH4NNS1
+
+# Oder über GitHub herunterladen:
+# https://github.com/microsoft/winget-cli/releases
+```
 
 ## Weitere Infos
 
