@@ -1,44 +1,26 @@
-**ONLYOFFICE: Die vielseitige Office-Suite für Ihre Dokumente**
+# OnlyOffice
 
-ONLYOFFICE ist eine umfassende und benutzerfreundliche Office-Suite, die eine breite Palette von Anwendungen für die Textverarbeitung, Tabellenkalkulation, Präsentationen und mehr bietet. Sie ist bekannt für ihre starke Kompatibilität mit Microsoft Office-Formaten und ihre kollaborativen Funktionen.
+Open-Source-Office-Suite mit starker Kompatibilität zu Microsoft Office und integrierten Kollaborationsfunktionen. OnlyOffice bietet Textverarbeitung, Tabellenkalkulation und Präsentationen in einer einheitlichen Oberfläche. Der Kern ist als AGPL lizenziert, daneben gibt es eine kostenpflichtige Enterprise-Edition.
 
-**Was ist ONLYOFFICE?**
+## Funktionen
 
-* **Vollständige Office-Suite**: ONLYOFFICE umfasst Anwendungen für alle gängigen Büroaufgaben, einschließlich Textverarbeitung (Writer), Tabellenkalkulation (Calc), Präsentationen (Impress), Formulare und PDF-Bearbeitung.
-* **Hohe Kompatibilität**: ONLYOFFICE ist bekannt für seine hervorragende Kompatibilität mit Microsoft Office-Formaten (DOCX, XLSX, PPTX), was einen reibungslosen Austausch von Dokumenten ermöglicht.
-* **Kollaborative Funktionen**: ONLYOFFICE bietet umfangreiche Funktionen für die Zusammenarbeit in Echtzeit, einschließlich gemeinsamer Dokumentbearbeitung, Kommentare und Versionsverlauf.
-* **Plattformübergreifend**: ONLYOFFICE ist für Windows, macOS, Linux, Android und iOS verfügbar und bietet sowohl Online- als auch Desktop-Versionen.
+- Writer, Calc, Impress für alle gängigen Büroaufgaben
+- Echtzeit-Zusammenarbeit an Dokumenten
+- Hervorragende Kompatibilität mit DOCX, XLSX, PPTX
+- PDF-Bearbeitung und Formulare
+- Plattformübergreifend: Windows, macOS, Linux, Android, iOS
 
-**Vorteile von ONLYOFFICE**
+## Installation
 
-* **Benutzerfreundlichkeit**: Die intuitive Benutzeroberfläche von ONLYOFFICE erleichtert den Einstieg und die Nutzung der Anwendungen.
-* **Kollaboration**: Die starken Kollaborationsfunktionen ermöglichen eine effiziente Zusammenarbeit in Teams.
-* **Kompatibilität**: Die hohe Kompatibilität mit Microsoft Office-Formaten sorgt für einen reibungslosen Dokumentenaustausch.
-* **Flexibilität**: ONLYOFFICE bietet sowohl Online- als auch Desktop-Versionen, sodass Benutzer flexibel arbeiten können.
-* **Sicherheit**: ONLYOFFICE legt Wert auf Datensicherheit und bietet verschiedene Sicherheitsfunktionen.
+Die mitgelieferten Skripte installieren OnlyOffice:
+- **Linux:** `OnlyOffice.bash`
+- **Windows:** `OnlyOffice.ps1`
 
-**Grundlegende Anwendungen**
+## Weitere Infos
 
-* **Writer**: Textverarbeitungsprogramm.
-* **Calc**: Tabellenkalkulationsprogramm.
-* **Impress**: Präsentationsprogramm.
-* **ONLYOFFICE DocSpace:** Cloud-Speicher und Kollaboration.
-* **Formulare:** PDF und Formularbearbeitung.
+[onlyoffice.com](https://www.onlyoffice.com)
 
-**Anwendungsbereiche**
-
-* **Privatanwender**: ONLYOFFICE ist ideal für Privatanwender, die eine benutzerfreundliche und kompatible Office-Suite suchen.
-* **Unternehmen**: Unternehmen profitieren von den starken Kollaborationsfunktionen und der hohen Kompatibilität von ONLYOFFICE.
-* **Bildungseinrichtungen**: ONLYOFFICE wird auch in Bildungseinrichtungen eingesetzt, um die Zusammenarbeit zwischen Schülern und Lehrern zu fördern.
-* **Öffentliche Verwaltungen**: Aufgrund seiner Kompatibilität und Sicherheitsfunktionen ist ONLYOFFICE auch für öffentliche Verwaltungen geeignet.
-
-**Zusätzliche Informationen**
-
-* ONLYOFFICE wird von Ascensio System SIA entwickelt.
-* Die offizielle Webseite von ONLYOFFICE ist onlyoffice.com. Dort finden Sie weitere Informationen und Dokumentationen.
-* ONLYOFFICE bietet auch eine kostenlose Community-Version an.
-
-## Open-Source-Lizenz
+## Lizenz
 
 * **Lizenz:** GNU AGPL v3
 * **Status:** Open Source (quelloffen)
