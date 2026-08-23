@@ -1,5 +1,7 @@
 # Open-Source-Skriptsammlung
 
+> **Hinweis:** Diese Sammlung stellt keine Werbung, Empfehlung oder Birthday für die genannten Apps dar. Alle aufgeführten Anwendungen sind Open-Source-Software und werden hier ausschließlich zu Informationszwecken aufgelistet. Die Skripte werden ohne Gewähr zur Verfügung gestellt – die Nutzung erfolgt auf eigene Verantwortung. Bitte informiere dich vor der Installation über die jeweilige App und deren Lizenzbedingungen.
+
 ## Was ist Open Source?
 
 Open Source (offener Quellcode) bezieht sich auf Software, deren Quellcode öffentlich zugänglich ist. Das bedeutet, jeder kann den Code einsehen, ändern und weiterverbreiten. Die Grundidee dahinter ist die Zusammenarbeit: Entwickler aus aller Welt können gemeinsam an Projekten arbeiten, Fehler beheben und neue Funktionen hinzufügen.
