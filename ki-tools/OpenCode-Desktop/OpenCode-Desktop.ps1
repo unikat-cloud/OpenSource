@@ -1,9 +1,13 @@
-# Installationsskript für OpenCode Desktop
+# Installationsskript für OpenCode (CLI + Desktop)
 
-Write-Host "OpenCode Desktop wird mit Winget installiert..."
-winget install SST.OpenCodeDesktop -e --source winget --accept-package-agreements --accept-source-agreements
-Write-Host "OpenCode Desktop wurde mit Winget installiert."
-Write-Host "Winget Installation abgeschlossen!"
+# Voraussetzung: Node.js muss installiert sein (https://nodejs.org)
+# Alternativ über Chocolatey: choco install nodejs-lts
 
-# Alternative: Falls Node.js vorhanden ist, kann auch der CLI-Agent installiert werden:
-# npm install -g opencode-ai
+Write-Host "OpenCode wird mit npm installiert..."
+npm install -g opencode-ai
+Write-Host "OpenCode CLI wurde installiert."
+
+Write-Host "Desktop-App wird gestartet..."
+opencode
+
+Write-Host "Installation abgeschlossen!"
