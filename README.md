@@ -24,6 +24,8 @@ Diese Sammlung enthält Installations- und Konfigurationsskripte für verschiede
 | Audioeditor | Audacity | GNU GPL v3 |
 | Browser | Brave | MPL 2.0 * |
 | Browser | Firefox | MPL 2.0 |
+| Code-Editor | VSCodium | MIT |
+| Dokumente | Stirling PDF | GNU AGPL v3 |
 | Fernwartung | RustDesk | GNU GPL v3 * |
 | KI-Tools | OpenCode Desktop | MIT |
 | KI-Tools | Hermes Desktop | MIT |
@@ -32,6 +34,7 @@ Diese Sammlung enthält Installations- und Konfigurationsskripte für verschiede
 | Notiz-App | Joplin | GNU AGPL v3 |
 | Notiz-App | Standard Notes | GNU GPL v3 * |
 | OS-Flasher | Balena Etcher | Apache 2.0 |
+| OS-Flasher | Ventoy | GNU GPL v3 |
 | Office-Suite | LibreOffice | MPL v2 / LGPL v3 / GPL v3 |
 | Office-Suite | OnlyOffice | GNU AGPL v3 * |
 | Paketmanager | Flatpak | GNU LGPL v2.1 |
