@@ -1,45 +1,26 @@
-# LibreOffice: Die freie Office-Suite für Ihre Dokumente
+# LibreOffice
 
-LibreOffice ist eine leistungsstarke und kostenlose Office-Suite, die eine breite Palette von Anwendungen für die Textverarbeitung, Tabellenkalkulation, Präsentationen und mehr bietet. Sie ist eine hervorragende Alternative zu proprietären Office-Suiten und zeichnet sich durch ihre Offenheit und Flexibilität aus.
+Umfassende freie Office-Suite als Alternative zu Microsoft Office. LibreOffice bietet Programme für Textverarbeitung (Writer), Tabellenkalkulation (Calc), Präsentationen (Impress), Datenbanken (Base), Zeichnungen (Draw) und Mathematik (Math). Die Suite wird von der The Document Foundation entwickelt und unterstützt eine Vielzahl von Dateiformaten, einschließlich der Microsoft-Office-Formate.
 
-## Was ist LibreOffice?
+## Funktionen
 
-* **Umfassende Office-Suite:** LibreOffice bietet Anwendungen für alle gängigen Office-Aufgaben, darunter Textverarbeitung (Writer), Tabellenkalkulation (Calc), Präsentationen (Impress), Datenbanken (Base), Zeichnungen (Draw) und Formeln (Math).
-* **Open Source:** LibreOffice ist ein Open-Source-Projekt, was bedeutet, dass der Quellcode öffentlich zugänglich ist und von einer aktiven Community weiterentwickelt wird.
-* **Plattformübergreifend:** LibreOffice ist für Windows, macOS und Linux verfügbar.
-* **Dateikompatibilität:** LibreOffice unterstützt eine Vielzahl von Dateiformaten, einschließlich der Formate von Microsoft Office.
+- Writer: Textverarbeitung mit umfangreichen Formatierungsoptionen
+- Calc: Tabellenkalkulation mit Makros und Diagrammen
+- Impress: Präsentationsprogramm mit Vorlagen und Übergängen
+- Hohe Kompatibilität mit Microsoft-Office-Formaten (DOCX, XLSX, PPTX)
+- Erweiterbar durch Add-ons und Vorlagen
 
-## Vorteile von LibreOffice
+## Installation
 
-* **Kostenlos und Open Source:** LibreOffice ist kostenlos und kann frei verwendet, verteilt und verändert werden.
-* **Vielseitigkeit:** LibreOffice bietet eine breite Palette von Anwendungen für verschiedene Office-Aufgaben.
-* **Anpassbarkeit:** LibreOffice kann mit Erweiterungen und Vorlagen an die individuellen Bedürfnisse angepasst werden.
-* **Aktive Community:** Eine große und aktive Community unterstützt LibreOffice und entwickelt es kontinuierlich weiter.
-* **Datenschutz:** LibreOffice legt Wert auf den Schutz der Privatsphäre der Nutzer.
+Die mitgelieferten Skripte installieren LibreOffice:
+- **Linux:** `LibreOffice.bash`
+- **Windows:** `LibreOffice.ps1`
 
-## Grundlegende Anwendungen
+## Weitere Infos
 
-* **Writer:** Textverarbeitungsprogramm.
-* **Calc:** Tabellenkalkulationsprogramm.
-* **Impress:** Präsentationsprogramm.
-* **Base:** Datenbankverwaltungsprogramm.
-* **Draw:** Zeichenprogramm.
-* **Math:** Formeleditor.
+[libreoffice.org](https://www.libreoffice.org)
 
-## Anwendungsbereiche
-
-* **Privatanwender:** LibreOffice ist ideal für Privatanwender, die eine kostenlose und leistungsstarke Office-Suite suchen.
-* **Bildungseinrichtungen:** LibreOffice wird häufig in Bildungseinrichtungen eingesetzt, da es kostenlos ist und alle erforderlichen Funktionen bietet.
-* **Unternehmen:** Auch Unternehmen können von LibreOffice profitieren, da es eine kostengünstige Alternative zu proprietären Office-Suiten darstellt.
-* **Öffentliche Verwaltungen:** Viele öffentliche Verwaltungen setzen auf LibreOffice, um Kosten zu sparen und die Interoperabilität zu fördern.
-
-## Zusätzliche Informationen
-
-* LibreOffice wird von der The Document Foundation entwickelt, einer gemeinnützigen Organisation.
-* Die Offizielle Webseite von LibreOffice ist libreoffice.org. Dort befinden sich weiterführende Informationen, und Dokumentationen.
-* Libre Office unterstützt eine vielzahl von Dateiformaten, darunter auch die von Microsoft Office.
-
-## Open-Source-Lizenz
+## Lizenz
 
 * **Lizenz:** MPL v2.0 / LGPL v3 / GPL v3 (Tri-Lizenz)
 * **Status:** Open Source (quelloffen, frei nutzbar und verteilbar)
