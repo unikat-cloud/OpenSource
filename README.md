@@ -1,8 +1,13 @@
 # Open-Source-Skriptsammlung
 
+[GitHub](https://github.com/unikat-cloud/OpenSource) ·
+[GitLab](https://gitlab.unikat-cloud.de/unikat-cloud.gitlab/opensource)
+
 > **Hinweis:** Diese Sammlung stellt keine Werbung, Empfehlung oder Bewerbung für die genannten Apps dar. Alle aufgeführten Anwendungen sind Open-Source-Software und werden hier ausschließlich zu Informationszwecken aufgelistet. Die Skripte werden ohne Gewähr zur Verfügung gestellt – die Nutzung erfolgt auf eigene Verantwortung. Bitte informiere dich vor der Installation über die jeweilige App und deren Lizenzbedingungen.
 
 > **Aktualität:** Die Installationsanweisungen und Lizenzangaben wurden zuletzt im **August 2026** geprüft. Da sich Paketquellen, Versionsnummern und Lizenzbedingungen ändern können, empfehlen wir, vor der Nutzung die offiziellen Seiten der jeweiligen Apps zu konsultieren und die Skripte ggf. anzupassen.
+
+> **Spiegelung:** Dieses Repo wird auf **GitHub und GitLab** SHA-identisch gespiegelt (gitchorus-Sync) – gleiche Commits, SHAs und Tags auf beiden Plattformen. Ein Push auf `main` auf einer Seite erscheint automatisch auf der anderen.
 
 ## Was ist Open Source?
 
