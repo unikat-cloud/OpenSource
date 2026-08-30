@@ -9,6 +9,10 @@
 #
 # Loop-Schutz: SHA-Vergleich im Skript – Echo-Pushes werden erkannt und
 # übersprungen, es entsteht keine Schleife.
+#
+# bootstrap-to-github: Einmaliger Force-Push von GitLab nach GitHub, um beide
+# Repos SHA-identisch zu machen (überschreibt die GitHub-History). Danach als
+# manuell startbarer Notfall-/Re-Sync-Job dauerhaft verfügbar.
 
 stages:
   - sync
@@ -31,3 +35,19 @@ sync-to-github:
     TO_SHA: "$CI_COMMIT_SHA"
   script:
     - bash scripts/git-sync.sh
+
+bootstrap-to-github:
+  stage: sync
+  image: alpine:latest
+  tags: [mcp]
+  rules:
+    - if: '$CI_COMMIT_BRANCH == "main"'
+  when: manual
+  before_script:
+    - apk add --no-cache git >/dev/null
+  variables:
+    GIT_DEPTH: 0
+  script:
+    - echo "Force-Push GitLab-History nach GitHub (SHA-identischer Bootstrap)..."
+    - git push --force "https://x-access-token:${GITHUB_SYNC_TOKEN}@github.com/unikat-cloud/OpenSource.git" "${CI_COMMIT_SHA}:refs/heads/main"
+    - echo "Bootstrap abgeschlossen - beide Repos sind jetzt SHA-identisch."
