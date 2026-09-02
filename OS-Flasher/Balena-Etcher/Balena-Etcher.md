@@ -20,6 +20,8 @@ Die mitgelieferten Skripte installieren Balena Etcher:
 
 [balena.io/etcher](https://etcher.balena.io)
 
+[Ausführliche Beschreibung im Unikat-Cloud-Wiki](https://www.unikat-cloud.de/wiki/balena-etcher/)
+
 ## Lizenz
 
 * **Lizenz:** Apache License 2.0
