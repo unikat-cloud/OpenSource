@@ -20,6 +20,8 @@ Die mitgelieferten Skripte installieren Shotcut:
 
 [shotcut.org](https://shotcut.org)
 
+[Ausführliche Beschreibung im Unikat-Cloud-Wiki](https://www.unikat-cloud.de/wiki/shotcut/)
+
 ## Lizenz
 
 * **Lizenz:** GNU GPL v3
