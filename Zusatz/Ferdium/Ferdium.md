@@ -20,6 +20,8 @@ Die mitgelieferten Skripte installieren Ferdium:
 
 [ferdium.org](https://ferdium.org)
 
+[Ausführliche Beschreibung im Unikat-Cloud-Wiki](https://www.unikat-cloud.de/wiki/ferdium/)
+
 ## Lizenz
 
 * **Lizenz:** Apache License 2.0
