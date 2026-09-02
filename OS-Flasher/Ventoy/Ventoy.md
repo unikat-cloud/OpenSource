@@ -20,6 +20,8 @@ Die mitgelieferten Skripte installieren Ventoy:
 
 [ventoy.net](https://www.ventoy.net)
 
+[Ausführliche Beschreibung im Unikat-Cloud-Wiki](https://www.unikat-cloud.de/wiki/ventoy/)
+
 ## Lizenz
 
 * **Lizenz:** GNU GPL v3
