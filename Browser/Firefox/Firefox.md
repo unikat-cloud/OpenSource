@@ -20,6 +20,8 @@ Die mitgelieferten Skripte installieren Firefox:
 
 [mozilla.org/firefox](https://mozilla.org/firefox)
 
+[Ausführliche Beschreibung im Unikat-Cloud-Wiki](https://www.unikat-cloud.de/wiki/firefox/)
+
 ## Lizenz
 
 * **Lizenz:** Mozilla Public License (MPL) 2.0
