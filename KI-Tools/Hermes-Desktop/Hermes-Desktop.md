@@ -20,6 +20,8 @@ Die mitgelieferten Skripte installieren Hermes Desktop:
 
 [hermes-agent.nousresearch.com](https://hermes-agent.nousresearch.com)
 
+[Ausführliche Beschreibung im Unikat-Cloud-Wiki](https://www.unikat-cloud.de/wiki/hermes-desktop/)
+
 ## Lizenz
 
 * **Lizenz:** MIT License
