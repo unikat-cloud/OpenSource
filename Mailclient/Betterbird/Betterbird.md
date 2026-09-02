@@ -20,6 +20,8 @@ Die mitgelieferten Skripte installieren Betterbird:
 
 [betterbird.eu](https://www.betterbird.eu)
 
+[Ausführliche Beschreibung im Unikat-Cloud-Wiki](https://www.unikat-cloud.de/wiki/betterbird/)
+
 ## Lizenz
 
 * **Lizenz:** Mozilla Public License (MPL) 2.0
