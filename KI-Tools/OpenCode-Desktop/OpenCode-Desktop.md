@@ -1,6 +1,6 @@
 # OpenCode Desktop
 
-Open-Source AI Coding Agent als Desktop-App von Anomaly (195K+ GitHub Stars). OpenCode unterstützt 75+ LLM-Provider und bietet einen grafischen Ableiter des Terminal-TUI mit Session-Management, integriertem Editor und Multi-Window-Support. Die Desktop-App ist aktuell in Beta.
+Open-Source AI Coding Agent als Desktop-App von Anomaly (195K+ GitHub Stars). OpenCode unterstützt 75+ LLM-Provider und bietet eine grafische Oberfläche für den Terminal-TUI mit Session-Management, integriertem Editor und Multi-Window-Support. Die Desktop-App ist aktuell in Beta.
 
 ## Funktionen
 
