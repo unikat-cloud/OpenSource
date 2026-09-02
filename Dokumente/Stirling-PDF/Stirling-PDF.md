@@ -20,6 +20,8 @@ Die mitgelieferten Skripte installieren Stirling PDF:
 
 [stirlingpdf.com](https://www.stirlingpdf.com)
 
+[Ausführliche Beschreibung im Unikat-Cloud-Wiki](https://www.unikat-cloud.de/wiki/stirling-pdf/)
+
 ## Lizenz
 
 * **Lizenz:** GNU AGPL v3
