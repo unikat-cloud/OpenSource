@@ -1,15 +1,13 @@
 # Proton Pass
 
-Open-Source-Passwortmanager von Proton mit Ende-zu-Ende-Verschlüsselung. Proton Pass integriert sich nahtlos in die Proton-Oko
-
- slogie und bietet E-Mail-Aliase über SimpleLogin. Die Clients sind vollständig quelloffen, der Backend-Dienst läuft auf Protons Servern.
+Open-Source-Passwortmanager von Proton mit Ende-zu-Ende-Verschlüsselung. Proton Pass integriert sich nahtlos in die Proton-Ökosysteme und bietet E-Mail-Aliase über SimpleLogin. Die Clients sind vollständig quelloffen, der Backend-Dienst läuft auf Protons Servern.
 
 ## Funktionen
 
 - Sichere Passwortspeicherung mit Ende-zu-Ende-Verschlüsselung
 - Automatisches Ausfüllen auf Websites und in Apps
 - Integrierte E-Mail-Aliase über SimpleLogin
-- Passwortgenerator und Dunkles Web-Monitoring
+- Passwortgenerator und Dark-Web-Monitoring
 - Plattformübergreifend: Windows, macOS, Linux, Android, iOS + Browser-Erweiterungen
 
 ## Installation
@@ -21,6 +19,8 @@ Die mitgelieferten Skripte installieren Proton Pass:
 ## Weitere Infos
 
 [protonpass.com](https://protonpass.com)
+
+[Ausführliche Beschreibung im Unikat-Cloud-Wiki](https://www.unikat-cloud.de/wiki/proton-pass/)
 
 ## Lizenz
 
