@@ -20,6 +20,8 @@ Die mitgelieferten Skripte installieren RustDesk:
 
 [rustdesk.com](https://rustdesk.com)
 
+[Ausführliche Beschreibung im Unikat-Cloud-Wiki](https://www.unikat-cloud.de/wiki/rustdesk/)
+
 ## Lizenz
 
 * **Lizenz:** GNU GPL v3 (Server: GNU AGPL v3)
