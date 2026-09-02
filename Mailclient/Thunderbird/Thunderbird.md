@@ -20,6 +20,8 @@ Die mitgelieferten Skripte installieren Thunderbird:
 
 [thunderbird.net](https://www.thunderbird.net)
 
+[Ausführliche Beschreibung im Unikat-Cloud-Wiki](https://www.unikat-cloud.de/wiki/thunderbird/)
+
 ## Lizenz
 
 * **Lizenz:** Mozilla Public License (MPL) 2.0
