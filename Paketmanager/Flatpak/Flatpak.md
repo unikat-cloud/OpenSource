@@ -1,6 +1,6 @@
 # Flatpak
 
-Framework zur distributionübergreifenden Softwareverteilung auf Linux-Systemen. Flatpak packt Anwendungen mit allen Abhängigkeiten in isolierte Sandboxes, sodass sie unabhängig von der jeweiligen Linux-Distribution laufen. Flathub dient als zentrales Repository mit einer großen Auswahl an Anwendungen.
+Framework zur distributionsübergreifenden Softwareverteilung auf Linux-Systemen. Flatpak packt Anwendungen mit allen Abhängigkeiten in isolierte Sandboxes, sodass sie unabhängig von der jeweiligen Linux-Distribution laufen. Flathub dient als zentrales Repository mit einer großen Auswahl an Anwendungen.
 
 ## Funktionen
 
@@ -17,6 +17,8 @@ Die mitgelieferten Skripte richten Flatpak ein:
 ## Weitere Infos
 
 [flatpak.org](https://flatpak.org)
+
+[Ausführliche Beschreibung im Unikat-Cloud-Wiki](https://www.unikat-cloud.de/wiki/flatpak/)
 
 ## Lizenz
 
