@@ -20,6 +20,8 @@ Die mitgelieferten Skripte installieren LibreOffice:
 
 [libreoffice.org](https://www.libreoffice.org)
 
+[Ausführliche Beschreibung im Unikat-Cloud-Wiki](https://www.unikat-cloud.de/wiki/libreoffice/)
+
 ## Lizenz
 
 * **Lizenz:** MPL v2.0 / LGPL v3 / GPL v3 (Tri-Lizenz)
