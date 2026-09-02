@@ -20,6 +20,8 @@ Die mitgelieferten Skripte installieren Brave:
 
 [brave.com](https://brave.com)
 
+[Ausführliche Beschreibung im Unikat-Cloud-Wiki](https://www.unikat-cloud.de/wiki/brave/)
+
 ## Lizenz
 
 * **Lizenz:** Mozilla Public License (MPL) 2.0
