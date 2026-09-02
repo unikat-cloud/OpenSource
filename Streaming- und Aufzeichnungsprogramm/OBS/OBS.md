@@ -20,6 +20,8 @@ Die mitgelieferten Skripte installieren OBS Studio:
 
 [obsproject.com](https://obsproject.com)
 
+[Ausführliche Beschreibung im Unikat-Cloud-Wiki](https://www.unikat-cloud.de/wiki/obs-studio/)
+
 ## Lizenz
 
 * **Lizenz:** GNU GPL v2
