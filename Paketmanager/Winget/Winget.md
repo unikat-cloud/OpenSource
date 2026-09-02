@@ -26,6 +26,8 @@ start ms-windows-store://pdp/?productid=9NBLGGH4NNS1
 
 [github.com/microsoft/winget-cli](https://github.com/microsoft/winget-cli)
 
+[Ausführliche Beschreibung im Unikat-Cloud-Wiki](https://www.unikat-cloud.de/wiki/winget/)
+
 ## Lizenz
 
 * **Lizenz:** MIT License
