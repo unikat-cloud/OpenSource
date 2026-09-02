@@ -1,6 +1,6 @@
 # Audacity
 
-Freier Open-Source-Audioeditor für Aufnahme, Bearbeitung und Export von Audiodateien. Audacity ist einer der bekanntesten kostenlosen Audio-Editor und läuft auf Windows, macOS und Linux. Der Quellcode ist öffentlich und wird von einer aktiven Community gepflegt.
+Freier Open-Source-Audioeditor für Aufnahme, Bearbeitung und Export von Audiodateien. Audacity ist einer der bekanntesten kostenlosen Audio-Editoren und läuft auf Windows, macOS und Linux. Der Quellcode ist öffentlich und wird von einer aktiven Community gepflegt.
 
 ## Funktionen
 
@@ -19,6 +19,8 @@ Die mitgelieferten Skripte installieren Audacity:
 ## Weitere Infos
 
 [audacityteam.org](https://www.audacityteam.org)
+
+[Ausführliche Beschreibung im Unikat-Cloud-Wiki](https://www.unikat-cloud.de/wiki/audacity/)
 
 ## Lizenz
 
