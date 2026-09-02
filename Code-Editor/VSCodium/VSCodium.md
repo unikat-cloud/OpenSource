@@ -20,6 +20,8 @@ Die mitgelieferten Skripte installieren VSCodium:
 
 [vscodium.com](https://vscodium.com)
 
+[Ausführliche Beschreibung im Unikat-Cloud-Wiki](https://www.unikat-cloud.de/wiki/vscodium/)
+
 ## Lizenz
 
 * **Lizenz:** MIT License
