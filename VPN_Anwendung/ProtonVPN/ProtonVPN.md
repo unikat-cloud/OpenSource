@@ -20,6 +20,8 @@ Die mitgelieferten Skripte installieren ProtonVPN:
 
 [protonvpn.com](https://protonvpn.com)
 
+[Ausführliche Beschreibung im Unikat-Cloud-Wiki](https://www.unikat-cloud.de/wiki/protonvpn/)
+
 ## Lizenz
 
 * **Lizenz:** GNU GPL v3 (Clients, seit 2020 veröffentlicht)
