@@ -20,6 +20,8 @@ Die mitgelieferten Skripte installieren OpenCode Desktop:
 
 [opencode.ai](https://opencode.ai)
 
+[Ausführliche Beschreibung im Unikat-Cloud-Wiki](https://www.unikat-cloud.de/wiki/opencode-desktop/)
+
 ## Lizenz
 
 * **Lizenz:** MIT License
