@@ -20,6 +20,8 @@ Die mitgelieferten Skripte installieren qBittorrent:
 
 [qbittorrent.org](https://www.qbittorrent.org)
 
+[Ausführliche Beschreibung im Unikat-Cloud-Wiki](https://www.unikat-cloud.de/wiki/qbittorrent/)
+
 ## Lizenz
 
 * **Lizenz:** GNU GPL v2 (oder neuer)
