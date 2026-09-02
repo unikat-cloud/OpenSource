@@ -20,6 +20,8 @@ Die mitgelieferten Skripte installieren Standard Notes:
 
 [standardnotes.com](https://standardnotes.com)
 
+[Ausführliche Beschreibung im Unikat-Cloud-Wiki](https://www.unikat-cloud.de/wiki/standard-notes/)
+
 ## Lizenz
 
 * **Lizenz:** GNU GPL v3
