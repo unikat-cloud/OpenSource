@@ -20,6 +20,8 @@ Die mitgelieferten Skripte installieren Kdenlive:
 
 [kdenlive.org](https://kdenlive.org)
 
+[Ausführliche Beschreibung im Unikat-Cloud-Wiki](https://www.unikat-cloud.de/wiki/kdenlive/)
+
 ## Lizenz
 
 * **Lizenz:** GNU GPL v2 (oder neuer)
