@@ -6,7 +6,7 @@ Open-Source-verschlüsselter Messenger mit Fokus auf Privatsphäre. Signal biete
 
 - Ende-zu-Ende-verschlüsselte Nachrichten, Sprach- und Videoanrufe
 - Gruppenchats mit bis zu 1000 Mitgliedern
-- disappearing messages und Screen-Lock
+- Disappearing Messages und Screen-Lock
 - Keine Werbung, kein Tracking, kein Datenverkauf
 - Plattformübergreifend: Windows, macOS, Linux, Android, iOS
 
@@ -19,6 +19,8 @@ Die mitgelieferten Skripte installieren Signal:
 ## Weitere Infos
 
 [signal.org](https://signal.org)
+
+[Ausführliche Beschreibung im Unikat-Cloud-Wiki](https://www.unikat-cloud.de/wiki/signal/)
 
 ## Lizenz
 
