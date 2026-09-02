@@ -20,6 +20,8 @@ Die mitgelieferten Skripte installieren Bitwarden:
 
 [bitwarden.com](https://bitwarden.com)
 
+[Ausführliche Beschreibung im Unikat-Cloud-Wiki](https://www.unikat-cloud.de/wiki/bitwarden/)
+
 ## Lizenz
 
 * **Lizenz:** GNU GPL v3 (Clients und Server)
