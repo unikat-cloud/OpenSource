@@ -20,6 +20,8 @@ Die mitgelieferten Skripte installieren Joplin:
 
 [joplinapp.org](https://joplinapp.org)
 
+[Ausführliche Beschreibung im Unikat-Cloud-Wiki](https://www.unikat-cloud.de/wiki/joplin/)
+
 ## Lizenz
 
 * **Lizenz:** GNU AGPL v3
