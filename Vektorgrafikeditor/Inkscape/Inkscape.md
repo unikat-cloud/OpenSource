@@ -20,6 +20,8 @@ Die mitgelieferten Skripte installieren Inkscape:
 
 [inkscape.org](https://inkscape.org)
 
+[Ausführliche Beschreibung im Unikat-Cloud-Wiki](https://www.unikat-cloud.de/wiki/inkscape/)
+
 ## Lizenz
 
 * **Lizenz:** GNU GPL v2 (oder neuer)
