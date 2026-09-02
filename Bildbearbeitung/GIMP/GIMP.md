@@ -20,6 +20,8 @@ Die mitgelieferten Skripte installieren GIMP:
 
 [gimp.org](https://www.gimp.org)
 
+[Ausführliche Beschreibung im Unikat-Cloud-Wiki](https://www.unikat-cloud.de/wiki/gimp/)
+
 ## Lizenz
 
 * **Lizenz:** GNU GPL v3+
