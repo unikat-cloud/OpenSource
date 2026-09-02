@@ -20,6 +20,8 @@ Die mitgelieferten Skripte installieren OnlyOffice:
 
 [onlyoffice.com](https://www.onlyoffice.com)
 
+[Ausführliche Beschreibung im Unikat-Cloud-Wiki](https://www.unikat-cloud.de/wiki/onlyoffice/)
+
 ## Lizenz
 
 * **Lizenz:** GNU AGPL v3
