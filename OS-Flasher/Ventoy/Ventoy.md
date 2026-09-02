@@ -1,6 +1,6 @@
 # Ventoy
 
-Open-Source-Tool zum Erstellen bootfähiger USB-Laufwerke. Ventoy copiert ISO-Dateien direkt auf einen USB-Stick – ohne bei jedem Mal neu formatieren zu müssen. Unterstützt über 1400+ ISOs und kann mehrere Images gleichzeitig auf einem Stick verwalten.
+Open-Source-Tool zum Erstellen bootfähiger USB-Laufwerke. Ventoy kopiert ISO-Dateien direkt auf einen USB-Stick – ohne bei jedem Mal neu formatieren zu müssen. Unterstützt über 1400+ ISOs und kann mehrere Images gleichzeitig auf einem Stick verwalten.
 
 ## Funktionen
 
