@@ -58,7 +58,7 @@ Diese Sammlung enthält Installations- und Konfigurationsskripte für verschiede
 | Torrent | qBittorrent | GNU GPL v2+ |
 | Virtualisierung | VirtualBox | GNU GPL v2 * |
 | VPN | ProtonVPN | GNU GPL v3 * |
-| Vektorgafikeditor | Inkscape | GNU GPL v2+ |
+| Vektorgrafikeditor | Inkscape | GNU GPL v2+ |
 | Videoeditor | Kdenlive | GNU GPL v2+ |
 | Videoeditor | Shotcut | GNU GPL v3 |
 | Zusatz | Ferdium | Apache 2.0 * |
