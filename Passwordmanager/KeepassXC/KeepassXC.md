@@ -20,6 +20,8 @@ Die mitgelieferten Skripte installieren KeePassXC:
 
 [keepassxc.org](https://keepassxc.org)
 
+[Ausführliche Beschreibung im Unikat-Cloud-Wiki](https://www.unikat-cloud.de/wiki/keepassxc/)
+
 ## Lizenz
 
 * **Lizenz:** GNU GPL v2 (oder neuer)
