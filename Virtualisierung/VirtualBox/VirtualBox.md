@@ -1,6 +1,6 @@
 # VirtualBox
 
-Open-Source-Virtualisierungssoftware von Oracle für x86/AMD64. VirtualBox ermöglicht das Ausführen mehrerer Betriebssysteme gleichzeitig auf einem Rechner. Der Kern ist als GPLv2 lizenziert, die Extension Pack (USB 2.0+, RDP, Verschlüsselung) sind proprietär.
+Open-Source-Virtualisierungssoftware von Oracle für x86/AMD64. VirtualBox ermöglicht das Ausführen mehrerer Betriebssysteme gleichzeitig auf einem Rechner. Der Kern ist als GPLv2 lizenziert, die Extension Packs (USB 2.0+, RDP, Verschlüsselung) sind proprietär.
 
 ## Funktionen
 
@@ -19,6 +19,8 @@ Die mitgelieferten Skripte installieren VirtualBox:
 ## Weitere Infos
 
 [virtualbox.org](https://www.virtualbox.org)
+
+[Ausführliche Beschreibung im Unikat-Cloud-Wiki](https://www.unikat-cloud.de/wiki/virtualbox/)
 
 ## Lizenz
 
